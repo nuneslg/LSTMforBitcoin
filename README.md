@@ -37,7 +37,7 @@ O objetivo do projeto é aplicar técnicas de Deep Learning para prever o valor 
 
 ## 🚀 Como Executar
 
-Você pode executar o notebook diretamente no [Google Colab](https://colab.research.google.com/) da seguinte forma:
+Você pode executar o notebook diretamente no [Google Colab](https://colab.research.google.com/drive/1-j-iYnGVurse-tk0E2kQv5eCO5pu9goB?usp=sharing) da seguinte forma:
 
 1. Faça upload do notebook e dos dados.
 2. Execute célula por célula.
